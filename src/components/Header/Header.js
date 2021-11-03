@@ -20,7 +20,7 @@ const Header = () => {
           <Link className="option" to="/services"><span className="btn-2">Services</span></Link>
           <Link className="option" to="/contact-us"><span className="btn-3">Contact Us</span></Link>
           <Link className="option btn-sign" to="/register">Sign Up</Link>
-          <Link className="option btn-sign" to="/sign-up">Login</Link>
+          <Link className="option btn-sign" to="/login">Login</Link>
         </nav>
       </div>
 
