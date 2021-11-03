@@ -1,0 +1,48 @@
+$fonte-default: 'Raleway', sans-serif;
+
+.main{
+  position: absolute;
+  text-align: center;
+  top: 77%;
+  left: 11%;
+}
+.home-page {
+  background-color: white;
+  display: flex;
+  width: 850px;
+  box-shadow: 1px 1px 2px 1px #00000036;
+}
+.services {
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  margin: 10px;
+  text-align: left;
+}
+.box-title{
+  padding: 5px;
+}
+.box-txt{
+  padding: 5px;
+}
+.mini-logo-img{
+  width: 30px;
+  margin: 5px;
+}
+.article{
+  box-shadow: 1px 1px 2px 1px #00000036;
+  width: 850px;
+}
+.title-article {
+  font-family: $fonte-default;
+  text-align: left;
+  margin-top: 10px;
+  padding: 25px;
+}
+.part-1-article{
+  text-align: left;
+  padding: 25px;
+}
+.part-2-article{
+  text-align: left;
+  padding: 25px;
+}
